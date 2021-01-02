@@ -2,7 +2,7 @@
 Make you become invisible with Python and OpenCV
 
 # Describle
-
+uncompleted project. I hope can make this project better in the future
 # Technique
 Very simple, remove the foreground frame:
 1. Capture and store the background (save this in the temp.txt file and then just open and load it) 
